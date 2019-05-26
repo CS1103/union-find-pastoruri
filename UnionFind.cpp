@@ -12,9 +12,9 @@ UnionFind::UnionFind(int n) {
     }
 }
 
-void UnionFind::Find(int index) {
+int UnionFind::Find(int index) {
         if( matrix[index].is_papa==true){
-            cout << matrix[index].value ;
+            return matrix[index].value ;
         }
         else return Find( matrix[index].value );
 }
@@ -25,4 +25,14 @@ void UnionFind::Union(int index1, int index2) {
 
 }
 
+
+bool UnionFind::manual_set(int index,int n) {
+    if(n>=this->n){
+        return false;
+    }
+    else{
+        matrix[index].value=n;
+
+    }
+}
 

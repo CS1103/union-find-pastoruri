@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Viernes24_.dir/main.cpp.obj"
   "CMakeFiles/Viernes24_.dir/UnionFind.cpp.obj"
+  "CMakeFiles/Viernes24_.dir/test.cpp.obj"
   "Viernes24_.pdb"
   "Viernes24_.exe"
   "Viernes24_.exe.manifest"

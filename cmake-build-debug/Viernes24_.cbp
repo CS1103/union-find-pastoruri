@@ -88,7 +88,13 @@
 		<Unit filename="C:/Users/rodri/OneDrive/Escritorio/Viernes24+/UnionFind.h">
 			<Option target="Viernes24_"/>
 		</Unit>
+		<Unit filename="C:/Users/rodri/OneDrive/Escritorio/Viernes24+/catch.hpp">
+			<Option target="Viernes24_"/>
+		</Unit>
 		<Unit filename="C:/Users/rodri/OneDrive/Escritorio/Viernes24+/main.cpp">
+			<Option target="Viernes24_"/>
+		</Unit>
+		<Unit filename="C:/Users/rodri/OneDrive/Escritorio/Viernes24+/test.cpp">
 			<Option target="Viernes24_"/>
 		</Unit>
 		<Unit filename="C:/Users/rodri/OneDrive/Escritorio/Viernes24+/CMakeLists.txt">
